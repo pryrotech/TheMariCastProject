@@ -11,3 +11,8 @@ You agree that this application will use personal identifiable information such 
 • You agree that third-party APIs and applications may use your personal identifiable data for functionality purposes. 
 
 • You agree that this application is 'as-is' and The MariCast Project or the MariTrack family of applications will be held harmless from any damage(s) that may arise from the proper or improper usage of the application. 
+
+
+
+
+<b>NOTE: This project is still in development, so not all features may be present. </b>
