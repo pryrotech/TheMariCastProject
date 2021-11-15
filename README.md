@@ -6,8 +6,7 @@ By downloading this application you agree to the following permissions as well a
 
 You agree that this application will use personal identifiable information such as coordinate location to gather relevant marine weather data; and you consent to the application using said data for the following:
 
-• Gathering marine weather data
-• Gathering nautical charting and depth reports
+• Gathering marine weather data & gathering nautical charting and depth reports
 
 • You agree that third-party APIs and applications may use your personal identifiable data for functionality purposes. 
 
